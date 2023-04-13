@@ -2,7 +2,15 @@
 // Preferences:
 // Visual Appearance: Shiny
 // Shield Shape: Heater
+
+// Divide the shield in three with the colors for Alderson, Crow, and Kizer
 Per Pall reversed argent or sable
+// this is cool but I think I will have to do the on a chief method with draw shield
+// or I will have to go quarterly and double one up or put one on a chief
+
+// Alderson and Crow
+Parted per pale: 1st argent a cross quarterly azure gules 2nd or a crow proper
+
 
 
 
